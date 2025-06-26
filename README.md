@@ -14,6 +14,10 @@ This project demonstrates how to automatically deploy a static website to an AWS
 ---
 
 ## ✅ Prerequisites
+⚡ Quick Setup
+
+1. Configure AWS S3 Bucket
+aws s3api create-bucket --bucket YOUR-BUCKET-NAME --region us-west-2 --acl public-read aws s3 website s3://YOUR-BUCKET-NAME/ --index-document index.html
 
 1. **AWS S3 Bucket** with Static Website Hosting enabled  
 2. **AWS IAM User** with programmatic access and `s3:PutObject`, `s3:DeleteObject`, and `s3:ListBucket` permissions  
