@@ -2,7 +2,7 @@ name: Upload to AWS S3
 
 on:
   push:
-    branches: [ master ] # মেইন ব্রাঞ্চে পুশ হলে ট্রিগার হবে
+    branches: [ master ] 
 
 jobs:
   deploy:
