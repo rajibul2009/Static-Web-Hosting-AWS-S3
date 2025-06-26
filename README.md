@@ -99,4 +99,4 @@ jobs:
 ## 🙌 Author
 
 **Your Name**  
-[GitHub](https://github.com/rajibul2009) | [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/rajibul2009) | [LinkedIn](https://linkedin.com/in/md-rajibul-islam-76280ba1)
