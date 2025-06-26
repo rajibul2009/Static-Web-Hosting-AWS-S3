@@ -95,13 +95,8 @@ jobs:
 
 ---
 
-## 🔗 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Author
 
 **Your Name**  
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/rajibul2009) | [LinkedIn](https://linkedin.com/in/your-profile)
